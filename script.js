@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // --- Typing Effect ---
-    const roles = ["Cyber Security Enthusiast", "CTF Player", "Penetration Tester"];
+    const roles = ["Cyber Security Enthusiast", "CTF Player"];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
